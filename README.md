@@ -1,4 +1,6 @@
 # Práticas de Extensão
+Na diciplina de Práticas de Extensão, nós estudantes precisamos desenvolver um projeto que será compartilhado publicamente, para usufruto do corpo social.
+
 ## NewFake
 No cenário atual, em que a tecnologia avança em ritmo acelerado e as redes sociais dominam as interações humanas, a disseminação de informações falsas, tornou-se uma preocupação significativa. À medida que notícias falsas se espalham pelas redes sociais, muitas vezes alcançando um grande público antes mesmo de serem desmentidas, as pessoas começam a questionar a veracidade de qualquer notícia que encontram.
 
